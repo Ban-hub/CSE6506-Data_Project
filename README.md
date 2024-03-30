@@ -22,3 +22,4 @@ The collected dataset were a group of csv documents, one for each year. We perfo
         - DBSCAN
     - Visualizing the Clusters
 
+Check `Final.ipynb` for all the experiments and results.
