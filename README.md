@@ -1,4 +1,4 @@
-This repo is a codebase for data mining experiments performed on the [WorldRiskIndex dataset at Humanitarian Data Exchange](https://data.humdata.org/dataset/worldriskindex)
+This repo is a codebase for data mining experiments performed on the [WorldRiskIndex dataset at Humanitarian Data Exchange](https://data.humdata.org/dataset/worldriskindex).
 
 The work here was used for partial completion of the course CSE6506 : Data Mining at Bangladesh University of Engineering and Technology.
 
@@ -22,3 +22,4 @@ The collected dataset were a group of csv documents, one for each year. We perfo
         - DBSCAN
     - Visualizing the Clusters
 
+Check `Final.ipynb` for all the experiments and results.
